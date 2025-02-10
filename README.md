@@ -8,7 +8,7 @@ I love Web Designing
 
 * 🌍  I'm based in wayanad kerala
 * ✉️  You can contact me at [harichandanampd@gmail.com](mailto:harichandanampd@gmail.com)
-* 🧠  I'm learning HTML, CSS, JS, C
+* 🧠  I'm learning HTML, CSS, JS, React Js
 * ⚡  My nickname is chandhu... But don't tell anyone
 
 ### Skills
